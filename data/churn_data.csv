@@ -100,7 +100,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 3212-KXOCR,52,Yes,Two year,No,Bank transfer (automatic),21.0,1107.2,No
 4598-XLKNJ,25,Yes,Month-to-month,Yes,Electronic check,98.5,2514.5,Yes
 6380-ARCEH,1,Yes,Month-to-month,No,Mailed check,20.2,20.2,No
-3679-XASPY,1,Yes,Month-to-month,No,Electronic check,239.79483836571114,13155.361758507046,No
+3679-XASPY,1,Yes,Month-to-month,No,Electronic check,306.0,15886.0,No
 7123-WQUHX,38,Yes,One year,No,Bank transfer (automatic),95.0,3605.6,No
 5386-THSLQ,66,No,One year,No,Bank transfer (automatic),45.55,3027.25,No
 3192-NQECA,68,Yes,Two year,Yes,Bank transfer (automatic),110.0,7611.85,Yes
@@ -131,7 +131,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 2639-UGMAZ,71,No,One year,Yes,Electronic check,56.45,3985.35,No
 2876-GZYZC,13,Yes,Month-to-month,Yes,Electronic check,85.95,1215.65,No
 6207-WIOLX,25,No,Month-to-month,Yes,Credit card (automatic),58.6,1502.65,Yes
-8587-XYZSF,67,Yes,Two year,No,Bank transfer (automatic),312.47916298236714,17692.94986199028,No
+8587-XYZSF,67,Yes,Two year,No,Bank transfer (automatic),592.0,30737.0,No
 3091-FYHKI,1,No,Month-to-month,Yes,Electronic check,35.45,35.45,Yes
 2372-HWUHI,2,Yes,Month-to-month,No,Electronic check,44.35,81.25,Yes
 7799-LGRDP,43,Yes,Two year,Yes,Credit card (automatic),25.7,1188.2,No
@@ -184,7 +184,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 9367-WXLCH,8,Yes,Month-to-month,No,Bank transfer (automatic),84.5,662.65,Yes
 5524-KHNJP,33,Yes,One year,No,Credit card (automatic),74.75,2453.3,No
 1918-ZBFQJ,13,Yes,Month-to-month,Yes,Electronic check,79.25,1111.65,Yes
-1024-GUALD,1,No,Month-to-month,Yes,Electronic check,230.05680445463827,12547.428933111089,Yes
+1024-GUALD,1,No,Month-to-month,Yes,Electronic check,268.0,13896.0,Yes
 4827-USJHP,20,Yes,Month-to-month,Yes,Mailed check,51.8,1023.85,No
 8167-GJLRN,3,No,Month-to-month,No,Electronic check,30.4,82.15,No
 0956-SYCWG,13,Yes,One year,No,Electronic check,19.65,244.8,No
@@ -810,7 +810,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 4289-DTDKW,40,Yes,Month-to-month,Yes,Electronic check,101.3,4113.1,Yes
 1820-TQVEV,1,Yes,Month-to-month,Yes,Electronic check,69.55,69.55,Yes
 2239-JALAW,58,Yes,One year,Yes,Bank transfer (automatic),103.25,6017.65,Yes
-4853-RULSV,70,Yes,Two year,Yes,Credit card (automatic),221.12849957182812,11990.046440611091,Yes
+4853-RULSV,70,Yes,Two year,Yes,Credit card (automatic),232.0,12072.0,Yes
 8098-TDCBU,42,Yes,Two year,No,Electronic check,25.25,1108.2,No
 3551-GAEGL,34,No,One year,No,Bank transfer (automatic),30.4,938.65,No
 4785-NKHCX,5,Yes,Month-to-month,No,Bank transfer (automatic),20.05,94.15,No
@@ -832,7 +832,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 9101-BWFSS,50,Yes,One year,No,Electronic check,108.55,5610.7,Yes
 9650-VBUOG,38,Yes,Two year,No,Credit card (automatic),25.05,963.95,No
 3487-EARAT,70,Yes,One year,No,Credit card (automatic),74.1,5222.3,No
-2672-TGEFF,37,Yes,Month-to-month,Yes,Electronic check,303.74728816538016,17147.83024370073,No
+2672-TGEFF,37,Yes,Month-to-month,Yes,Electronic check,558.0,28953.0,No
 9231-ZJYAM,4,Yes,Month-to-month,Yes,Electronic check,78.85,292.8,Yes
 4250-WAROZ,60,Yes,Month-to-month,Yes,Electronic check,93.25,5774.55,No
 8184-WMOFI,62,Yes,One year,No,Credit card (automatic),71.4,4487.3,No
@@ -1262,7 +1262,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 9992-UJOEL,2,Yes,Month-to-month,Yes,Mailed check,50.3,92.75,No
 4741-WWJQZ,2,Yes,Month-to-month,Yes,Electronic check,80.15,194.55,No
 6625-UTXEW,12,Yes,Month-to-month,Yes,Electronic check,51.25,612.1,No
-6818-WOBHJ,68,Yes,Month-to-month,Yes,Bank transfer (automatic),307.9923791742464,17412.84576887246,Yes
+6818-WOBHJ,68,Yes,Month-to-month,Yes,Bank transfer (automatic),575.0,29820.0,Yes
 6244-BESBM,69,Yes,Two year,Yes,Credit card (automatic),95.2,6671.7,No
 1004-NOZNR,56,Yes,One year,No,Credit card (automatic),94.8,5264.3,No
 1251-STYSZ,4,Yes,Month-to-month,Yes,Electronic check,80.25,303.7,No
@@ -1671,7 +1671,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 5405-ZMYXQ,8,Yes,Month-to-month,Yes,Credit card (automatic),74.6,548.9,No
 5047-LHVLY,1,Yes,Month-to-month,Yes,Mailed check,50.15,50.15,Yes
 1442-OKRJE,66,Yes,One year,Yes,Bank transfer (automatic),103.15,7031.3,No
-4737-AQCPU,72,Yes,Two year,No,Credit card (automatic),321.0392687098562,18227.34615883242,No
+4737-AQCPU,72,Yes,Two year,No,Credit card (automatic),626.0,32486.0,No
 9158-VCTQB,41,Yes,Month-to-month,Yes,Bank transfer (automatic),113.6,4594.95,Yes
 2808-CHTDM,23,Yes,Two year,No,Mailed check,25.1,611.45,No
 6311-UEUME,29,Yes,Month-to-month,Yes,Electronic check,78.9,2384.15,Yes
@@ -1806,7 +1806,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 6016-LVTJQ,34,Yes,Month-to-month,No,Mailed check,20.65,716.4,No
 7860-KSUGX,72,Yes,Two year,No,Credit card (automatic),64.45,4720.0,No
 8966-KZXXA,36,Yes,Two year,No,Credit card (automatic),25.1,930.95,No
-6910-HADCM,1,Yes,Month-to-month,No,Electronic check,270.4601316903348,15069.756243335894,Yes
+6910-HADCM,1,Yes,Month-to-month,No,Electronic check,427.0,22151.0,Yes
 4816-LXZYW,23,Yes,Month-to-month,Yes,Electronic check,79.15,1676.95,Yes
 9606-PBKBQ,32,Yes,Month-to-month,Yes,Electronic check,85.0,2642.05,Yes
 5149-QYTTU,71,Yes,One year,Yes,Credit card (automatic),95.15,6770.85,No
@@ -2525,7 +2525,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 9081-WWXKP,47,Yes,Two year,No,Credit card (automatic),20.25,873.4,No
 0784-ZQJZX,72,Yes,Two year,No,Credit card (automatic),19.9,1529.65,No
 3133-PZNSR,72,Yes,Two year,Yes,Credit card (automatic),97.75,6991.6,No
-5766-ZJYBB,1,Yes,Month-to-month,No,Mailed check,240.40447291830472,13193.420452839153,Yes
+5766-ZJYBB,1,Yes,Month-to-month,No,Mailed check,308.0,16010.0,Yes
 8931-GJJIQ,9,Yes,Month-to-month,Yes,Electronic check,83.3,803.3,Yes
 4277-PVRAN,8,Yes,Month-to-month,Yes,Bank transfer (automatic),80.1,679.3,Yes
 0022-TCJCI,45,Yes,One year,No,Credit card (automatic),62.7,2791.5,Yes
@@ -2621,7 +2621,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 3336-JORSO,33,Yes,Month-to-month,Yes,Electronic check,110.45,3655.45,Yes
 7799-DSEWS,18,Yes,Month-to-month,Yes,Electronic check,68.35,1299.8,No
 8766-PAFNE,71,Yes,Two year,Yes,Credit card (automatic),79.1,5564.85,No
-5315-CKEQK,28,Yes,One year,Yes,Electronic check,339.55002848606864,19382.94888046423,No
+5315-CKEQK,28,Yes,One year,Yes,Electronic check,699.0,36268.0,No
 3130-ICDUP,2,Yes,Month-to-month,No,Credit card (automatic),80.55,188.1,No
 0820-FNRNX,17,Yes,Month-to-month,Yes,Mailed check,66.7,1077.05,No
 0880-FVFWF,56,Yes,Month-to-month,Yes,Electronic check,86.4,4922.4,No
@@ -2714,7 +2714,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 5133-VRSAB,8,No,Month-to-month,No,Mailed check,29.35,216.45,No
 5996-DAOQL,1,Yes,Month-to-month,Yes,Mailed check,20.45,20.45,No
 6838-YAUVY,54,Yes,Two year,Yes,Bank transfer (automatic),95.1,5064.85,No
-0484-JPBRU,41,Yes,Month-to-month,Yes,Bank transfer (automatic),243.95560789499132,13415.11320308566,No
+0484-JPBRU,41,Yes,Month-to-month,Yes,Bank transfer (automatic),322.0,16736.0,No
 7883-ROJOC,19,Yes,Month-to-month,No,Mailed check,44.9,839.65,No
 0244-LGNFY,72,Yes,Two year,No,Bank transfer (automatic),92.65,6733.0,No
 7274-CGTOD,62,No,Two year,Yes,Bank transfer (automatic),43.7,2618.3,No
@@ -2891,7 +2891,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 9830-ECLEN,58,No,One year,No,Mailed check,50.0,2919.85,No
 1732-VHUBQ,47,Yes,Month-to-month,No,Bank transfer (automatic),70.55,3309.25,Yes
 0495-RVCBF,1,Yes,Month-to-month,Yes,Electronic check,79.7,79.7,Yes
-2668-TZSPS,1,Yes,Month-to-month,No,Mailed check,318.62275656517033,18076.486440213856,No
+2668-TZSPS,1,Yes,Month-to-month,No,Mailed check,617.0,31992.0,No
 7854-EDSSA,22,Yes,Month-to-month,No,Electronic check,59.0,1254.7,Yes
 8869-TORSS,48,Yes,One year,Yes,Credit card (automatic),60.35,2896.4,Yes
 7446-SFAOA,37,Yes,One year,Yes,Bank transfer (automatic),19.85,717.5,No
@@ -3327,7 +3327,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 0697-ZMSWS,4,Yes,Month-to-month,Yes,Electronic check,85.65,338.9,Yes
 7657-DYEPJ,38,Yes,One year,Yes,Credit card (automatic),70.15,2497.35,Yes
 9494-BDNNC,66,Yes,One year,No,Electronic check,95.3,6273.4,No
-1640-PLFMP,1,Yes,Month-to-month,Yes,Electronic check,334.4408504031719,19063.989520109702,No
+1640-PLFMP,1,Yes,Month-to-month,Yes,Electronic check,679.0,35224.0,No
 5366-OBVMR,18,Yes,Month-to-month,Yes,Mailed check,50.3,908.75,No
 8276-MQBYC,51,Yes,Month-to-month,Yes,Electronic check,97.8,4913.3,Yes
 7644-OMVMY,0,Yes,Two year,No,Mailed check,19.85,,No
@@ -3731,7 +3731,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 3635-QQRQD,62,Yes,Two year,Yes,Credit card (automatic),20.05,1201.65,No
 6771-XWBDM,57,Yes,Month-to-month,Yes,Credit card (automatic),104.5,5921.35,Yes
 2897-DOVND,2,Yes,Month-to-month,Yes,Electronic check,69.8,146.65,No
-3082-YVEKW,23,Yes,Two year,Yes,Bank transfer (automatic),267.9238018941265,14911.416464154023,No
+3082-YVEKW,23,Yes,Two year,Yes,Bank transfer (automatic),417.0,21633.0,No
 0191-EQUUH,25,No,Two year,No,Bank transfer (automatic),35.05,844.45,No
 7134-HBPBS,72,Yes,Two year,Yes,Bank transfer (automatic),108.1,7774.05,No
 3489-HHPFY,2,Yes,Month-to-month,Yes,Electronic check,84.05,134.05,No
@@ -3800,7 +3800,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 2800-QQUSO,42,Yes,Month-to-month,Yes,Electronic check,100.3,4222.95,No
 2930-UOTMB,31,Yes,Month-to-month,No,Credit card (automatic),65.25,1994.3,Yes
 7973-DZRKH,66,Yes,Two year,Yes,Credit card (automatic),90.95,5930.05,No
-5914-DVBWJ,18,Yes,Month-to-month,Yes,Electronic check,269.21265453910104,14991.877862947007,Yes
+5914-DVBWJ,18,Yes,Month-to-month,Yes,Electronic check,422.0,21897.0,Yes
 7698-YFGEZ,1,Yes,Month-to-month,No,Mailed check,20.0,20.0,No
 2533-QVMSK,61,Yes,Two year,Yes,Electronic check,94.1,5638.3,Yes
 9773-PEQBZ,10,Yes,Month-to-month,No,Electronic check,79.85,797.25,No
@@ -3824,7 +3824,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 6137-NICCO,6,Yes,Month-to-month,Yes,Mailed check,94.05,518.75,No
 9065-ZCPQX,72,Yes,Two year,No,Bank transfer (automatic),78.85,5763.15,No
 6402-EJMWF,4,Yes,Month-to-month,Yes,Mailed check,55.3,238.5,No
-3620-EHIMZ,52,Yes,Two year,No,Mailed check,268.027277486867,14917.87631118564,No
+3620-EHIMZ,52,Yes,Two year,No,Mailed check,417.0,21654.0,No
 3213-VVOLG,0,Yes,Two year,No,Mailed check,25.35,,No
 6870-ECSHE,2,Yes,One year,No,Mailed check,20.45,34.8,No
 8747-UDCOI,65,Yes,Two year,No,Bank transfer (automatic),19.35,1319.95,No
@@ -4128,7 +4128,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 3724-UCSHY,6,Yes,Month-to-month,No,Mailed check,19.55,122.9,No
 8626-XHBIE,56,Yes,Two year,Yes,Mailed check,24.8,1424.2,No
 4628-CTTLA,57,No,Month-to-month,Yes,Electronic check,39.3,2111.45,Yes
-3192-LNKRK,34,Yes,Month-to-month,Yes,Mailed check,257.1567554045407,14239.243718263235,No
+3192-LNKRK,34,Yes,Month-to-month,Yes,Mailed check,374.0,19433.0,No
 4439-YRNVD,10,No,Month-to-month,No,Electronic check,36.25,374.0,No
 2876-VBBBL,1,Yes,Month-to-month,Yes,Mailed check,20.25,20.25,Yes
 6834-NXDCA,13,No,Month-to-month,Yes,Electronic check,23.9,300.8,Yes
@@ -4356,7 +4356,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 1955-IBMMB,59,Yes,Two year,Yes,Bank transfer (automatic),20.2,1192.3,No
 0096-BXERS,6,Yes,Month-to-month,No,Electronic check,50.35,314.55,No
 3806-YAZOV,3,Yes,Month-to-month,No,Mailed check,18.8,56.0,No
-7998-ZLXWN,15,Yes,Month-to-month,No,Credit card (automatic),313.6997057438439,17769.146763364533,No
+7998-ZLXWN,15,Yes,Month-to-month,No,Credit card (automatic),597.0,30986.0,No
 6253-WRFHY,13,Yes,One year,Yes,Electronic check,64.75,877.35,No
 9133-AYJZG,23,Yes,Month-to-month,Yes,Credit card (automatic),98.7,2249.1,No
 2675-OTVVJ,31,Yes,Month-to-month,No,Electronic check,89.45,2807.65,No
@@ -4585,7 +4585,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 2400-XIWIO,71,Yes,Two year,No,Electronic check,90.1,6310.9,No
 7524-VRLPL,69,Yes,Two year,No,Credit card (automatic),74.1,5031.0,No
 1069-XAIEM,1,Yes,Month-to-month,Yes,Electronic check,85.05,85.05,Yes
-7569-NMZYQ,72,Yes,Two year,Yes,Bank transfer (automatic),218.75,15672.45,No
+7569-NMZYQ,72,Yes,Two year,Yes,Bank transfer (automatic),118.75,8672.45,No
 5201-USSQZ,26,Yes,Month-to-month,No,Credit card (automatic),85.9,2196.45,No
 2105-PHWON,33,Yes,Month-to-month,Yes,Credit card (automatic),95.0,3008.15,No
 1494-EJZDW,10,Yes,Two year,No,Mailed check,20.15,220.8,No
@@ -4639,7 +4639,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 9470-YFUYI,71,Yes,One year,Yes,Bank transfer (automatic),71.0,5012.1,No
 7817-BOQPW,2,Yes,Month-to-month,Yes,Electronic check,75.55,166.3,Yes
 7402-EYFXX,26,Yes,Month-to-month,Yes,Electronic check,93.6,2404.1,No
-1853-UDXBW,1,Yes,Month-to-month,Yes,Electronic check,257.82459028394004,14280.935783503379,Yes
+1853-UDXBW,1,Yes,Month-to-month,Yes,Electronic check,377.0,19570.0,Yes
 9895-VFOXH,1,No,Month-to-month,No,Mailed check,24.4,24.4,No
 5458-CQJTA,65,Yes,Two year,Yes,Bank transfer (automatic),74.8,4820.15,Yes
 1230-QAJDW,3,Yes,Month-to-month,Yes,Mailed check,65.25,209.9,No
@@ -5193,7 +5193,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 5982-PSMKW,23,Yes,Two year,Yes,Credit card (automatic),91.1,2198.3,No
 3507-GASNP,60,Yes,Two year,No,Mailed check,19.95,1189.9,No
 7096-ZNBZI,72,Yes,Two year,No,Credit card (automatic),26.45,1914.5,No
-1902-XBTFB,22,Yes,Month-to-month,Yes,Electronic check,280.31311064010356,15684.864938396895,Yes
+1902-XBTFB,22,Yes,Month-to-month,Yes,Electronic check,466.0,24165.0,Yes
 1676-MQAOA,72,Yes,Two year,Yes,Bank transfer (automatic),75.1,5336.35,No
 0786-IVLAW,66,Yes,One year,No,Bank transfer (automatic),108.1,7238.6,No
 7566-DSRLQ,72,Yes,Two year,Yes,Electronic check,110.15,7998.8,No
@@ -5274,7 +5274,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 8780-IXSTS,6,Yes,Month-to-month,Yes,Electronic check,90.1,521.3,Yes
 7673-BQGKU,69,Yes,Two year,No,Bank transfer (automatic),20.15,1337.5,No
 6723-WSNTY,66,Yes,One year,Yes,Credit card (automatic),108.1,7181.95,No
-9530-EHPOH,11,Yes,Month-to-month,No,Electronic check,263.57125365920825,14639.692523747814,Yes
+9530-EHPOH,11,Yes,Month-to-month,No,Electronic check,400.0,20744.0,Yes
 2725-IWWBA,46,Yes,One year,No,Mailed check,56.9,2560.1,No
 0345-HKJVM,6,Yes,Month-to-month,No,Electronic check,89.3,577.6,Yes
 1061-PNTHC,56,Yes,Month-to-month,Yes,Mailed check,109.6,5953.0,No
@@ -6178,7 +6178,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 0475-RIJEP,43,Yes,Month-to-month,Yes,Electronic check,77.85,3365.85,Yes
 1260-TTRXI,4,Yes,Month-to-month,No,Electronic check,54.3,195.3,Yes
 3719-TDVQB,54,Yes,Two year,Yes,Mailed check,18.95,1031.1,No
-6328-ZPBGN,11,Yes,Month-to-month,Yes,Bank transfer (automatic),260.4778252353094,14446.573799878654,Yes
+6328-ZPBGN,11,Yes,Month-to-month,Yes,Bank transfer (automatic),387.0,20112.0,Yes
 0201-MIBOL,66,Yes,Two year,Yes,Bank transfer (automatic),102.4,6471.85,No
 4937-QPZPO,61,Yes,One year,Yes,Electronic check,99.9,6241.35,No
 2925-VDZHY,72,Yes,Two year,No,Credit card (automatic),88.7,6501.35,No
@@ -6297,7 +6297,7 @@ customerID,tenure,PhoneService,Contract,PaperlessBilling,PaymentMethod,MonthlyCh
 7033-CLAMM,48,Yes,Two year,No,Bank transfer (automatic),20.2,1027.25,No
 4023-RTIQM,31,No,One year,Yes,Credit card (automatic),50.4,1580.1,No
 0864-FVJNJ,64,Yes,One year,No,Electronic check,113.35,7222.75,No
-7356-IWLFW,46,Yes,Month-to-month,Yes,Bank transfer (automatic),219.26062420642893,11873.437404460226,No
+7356-IWLFW,46,Yes,Month-to-month,Yes,Bank transfer (automatic),225.0,11690.0,No
 9541-PWTWO,52,Yes,Two year,Yes,Bank transfer (automatic),80.95,4233.95,No
 3967-VQOGC,67,Yes,Two year,Yes,Mailed check,24.9,1680.25,No
 7872-RDDLZ,67,Yes,Month-to-month,No,Electronic check,54.9,3725.5,No
